@@ -28,6 +28,13 @@ There’s more that we’ve learned and this is only a summary. To encourage you
 
 **\*DONT'S !!!\***
 
-Whole app copying: It’s good to learn from others and search for ways to execute things, but to make sure you understand the concepts here, don’t copy the whole code. Only the small parts that you searched, but also retype them to get used to the code
+Whole app copying: It’s good to learn from others and search for ways to execute things, but to make sure you understand the concepts here, don’t copy the whole code. Only the small parts that you searched, but also retype them to get used to the code.
+
+
+
+#### **SUBMISSION**
+
+Push your code to github and deploy your app. Send the link to your github and your hosted app to me via this form https://forms.office.com/r/XaK3rTJPD6.
+Read the *'HOW TO SUBMIT.md'* to see how to submit to this repo
 
 _Have fun with this one_ 😊
