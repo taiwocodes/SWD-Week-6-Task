@@ -1,0 +1,55 @@
+body{
+  text-align: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 100px;
+}
+
+h2{
+  color: darkblue;
+  font-weight: lighter;
+  padding: 10px;
+  margin-bottom: 7px;
+  font-size: 42px;
+}
+
+
+.form-group {
+  text-align: center;
+}
+
+input{
+  padding: 10px 15px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid darkblue;
+  width: 300px;
+  text-align: center;
+}
+
+.input-form{
+  padding: 15px;
+}
+
+label{
+  color: darkblue;
+}
+
+button{
+  background-color: darkblue;
+  color: white;
+  border-radius: 3px;
+  font-size: 20px;
+margin: 10px 15px;
+}
+
+.login-link{
+  color: white;
+  text-decoration: none;
+}
+
+.redirect-link{
+  color: darkblue;
+  margin: 10px;
+  padding: 20px 5px;
+}
